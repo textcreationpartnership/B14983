@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corrant out of Italy, Germany, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14983</idno>
+            <idno type="STC">STC 18507.3</idno>
+            <idno type="STC">ESTC S119510</idno>
+            <idno type="EEBO-CITATION">99854717</idno>
+            <idno type="PROQUEST">99854717</idno>
+            <idno type="VID">177422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177422)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corrant out of Italy, Germany, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By George Veseler, Ao. 1621. The 4 of Nanuari. [sic]  And are to be soulde by Petrus Keerius, dvvelling in the Calverstreete in the uncertaine time,</publisher>
+                  <pubPlace>Imprinted at Amsterdam :</pubPlace>
+                  <date>[1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Formerly STC 5745.</note>
+                  <note>Identified as STC 5745 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:177422:1" rendition="simple:additions"/>
+            <head>Corrant out of Italy, Germany, &amp;c.</head>
+            <div type="part">
+               <opener>
+                  <dateline>From Roome <date>the 5. of December.</date>
+                  </dateline>
+               </opener>
+               <p>BY Civita Vechia / are paſſed by ſom certaine Captames / who have convoyed the Duke of Offuna in to Spaine / the foreſaid Captames ſhall ſerve in the Catholike Armado againſt the Spring / which ſhall com to gither at Meſſina.</p>
+               <p>The Cardinal Borgina / is earneſt at Napels / to receive the uſua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gift / which the ſam Kingdom doth preſent every <hi>2.</hi> yeares unto the King of Spaine / he hath alſo cauſed the Beutylitie to com togither about the ſame.</p>
+               <p>The Prince of Daudemont who is heere pre<g ref="char:EOLhyphen"/>ſent / doth view all things / hath beene the laſt Munday in the Caſtle S. Angelo / and gave the Souldiers <hi>200</hi> Crownes.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Lyons in Fraunce, <date>the 6 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>The extraordinarie Venetians Ambaſſador hath had Audience by the King of Fraunce / and ſeeing his Comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſion doth concerne the Buſi<g ref="char:EOLhyphen"/>neſſes in Veltan / and that the Crowne of Fran<g ref="char:EOLunhyphen"/>ce depends much upon the ſame / therefore it is thought that the ſaid Ambaſſadoure ſhall have A ſpeedie Anſwere.</p>
+               <p>Becauſe the Speech goeth that the King will Admit thoſe of the Religion at Rochell and els where in his dominions no aſſembl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s / therefore thoſe Citties of the Religion ſtrengthen them ſelves dayly / in the meane while they have ſent theire Deputies to his Maj. att Court.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Venice, <date>the 11. hereof.</date>
+                  </dateline>
+               </opener>
+               <p>The laſt Munday arrived heere <hi>11</hi> Ships la<g ref="char:EOLhyphen"/>ded with woll and other Marchandiſes / from Alicanten.</p>
+               <p>The King of Spaine hath deſired of all the Princes of Italy / that they ſhould have in A readines thoſe Souldiers which they are indeb<g ref="char:EOLhyphen"/>ted / to aſſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him with and againſt the ſoring ſhoulde com to gither <hi>7000</hi> horſe and footemen under the commaund of the Millanes.</p>
+               <p>Adviſe out of Switſerland that the Cantons have begon another Meeting day at Veſſell and received the French Ambaſſador very Lordly / there propoſitio<g ref="char:cmbAbbrStroke">̄</g> / is that they wil ſhake of frend<g ref="char:EOLhyphen"/>ſhip with Spaine / and eleave only to Fraunce / they hope through ſuch meanes to get Veltolin againe / and likewiſe to bringhe other Matters in quietneſſe / becauſe the King of Spaine with the Nobility ſeeke onely but a free pas to Tyrol.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From VVeenen, <date>the 12 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>Bethlem Gabor Requires <hi>500.</hi> Muſquettiers for his gard / and many Hungarians gather to<g ref="char:EOLhyphen"/>gother and do intend to go in to Moravia to help them / the Generall Breyner lieth at Bruck / And there are <hi>300</hi> Souldiers froſen dead againe in the ſnoe / and likewiſe ſo many ſlaine / beſides thoſe that are taken Priſoners and ſent to Preſ<g ref="char:EOLhyphen"/>burgh.</p>
+               <p>It is confirmed out of Poland / that the ſame Camp is wholly overthrowne of the Turkes / and the Tarters do greate harmes through bur<g ref="char:EOLhyphen"/>ning and roving. Therefore A Meeting day at Marſchow is kept. In like manner Bethlem Gabor doth threaten theſe Lands / if they make not peace.</p>
+               <p>The Lord of Seratin / is as a Moraviſh Am<g ref="char:EOLhyphen"/>baſſador arived here uppo<g ref="char:cmbAbbrStroke">̄</g> certaine condition it is hoped that he comes to make peace / the Earle of Buequoy lieth at the Fronters of Moravia / what he will bring to paſſe / time will reveale.</p>
+               <p>The Emperours Iourney is prorogued fom few dayes / becauſe it is underſtood that the Duk of Beyeren / and the Duke of Nieuburghe are expected heere with the firſt / it ſeemes they ſhall be made Gouvernours in Bohemia.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Prage, <date>the 14 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>The Mintmaſter is ſom few daies ſince fetcht out of the quoyning houſe by the Gouverneur of the Cittie and with ſouldiers / and caried in to the Counſel Houſe / there to be kept in holde.</p>
+               <p>Seeing the Emperours Strangs Souldiers have done greate hurt here this <hi>5.</hi> weekes with roving and ſpoyling therefore the Duke of Lich<g ref="char:EOLunhyphen"/>tenſteen ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h cauſed proclamations to be ſett A broad / and for bidden the foreſaid roving upon greate puniſhment / alſo publiſhed that thoſe that will com togither to buy and ſell / and Trafficque may travaile in ſafty. And hath publiſhed cita<g ref="char:EOLhyphen"/>tions / that all the Bohemiſh States that are gone away muſt upon forfet of theire honour and goods appeare upon the appointed time.</p>
+               <p>Here is arrived a Poſt from weenen / with Letters from the Emperour to the Duke off Lichteuſteen / and the ſpeech goeth that the Em<g ref="char:EOLhyphen"/>perour wil ſhortly com hither / to keepe a meeting day in Bohemia / and to ſet the whole Kingdom in the former ſtate and reſt / there after ſhoulde alſo be A Parlement.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Pilſen, <date>the 15 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>After that the States of Bohemia had ſat in Counſel concerning our payment / and the Earle of Manſvelt beſides other artikels unto the ſaid States / he deſired <hi>12.</hi> hundred thouſand Flo<g ref="char:EOLhyphen"/>rijns / but there is profferd them <hi>800</hi> thouſand Florijns / of Don Mertin / and the Cittie there uppon to be give<g ref="char:cmbAbbrStroke">̄</g> over to the Emperour / and be<g ref="char:EOLhyphen"/>cauſe the treſuror of the Emperour is arived heer two dayes Agon / but hath not brought the fore<g ref="char:EOLhyphen"/>ſaid promiſed payment with him / therefore the Earle of Manſvelt hath commaunded all the Captaines / to make timber ready to fortify the Cittie / ſo thar the accord is wholy broken again.</p>
+               <p>This Cittie is ſtrongly fortyfied / and is dayly made ſtronger / and hier ſtand <hi>13</hi> very faire pee<g ref="char:EOLhyphen"/>ces of ordnaunce / and here is as yet noe want of proviſion / in the meane while theſe Souldiers run dayly out / bring in greate ſtore of cattle / ſo that a Cowe is ſoulde for halfe a floryne / and an Sheepe for <hi>12</hi> Krijtſers.</p>
+               <p>The Earle of Mantſvelt ſhoulde goe to Sa<g ref="char:EOLhyphen"/>voy / and doth cauſe his Bagadge to be ſent to Amberghe alreddy / and ſeeing that certaine en<g ref="char:EOLhyphen"/>couradgements are com from Amberge hither / that the Earle Sigmont of Brandenburg is exſpected dayly to com hether / with <hi>500</hi> thouſa<g ref="char:cmbAbbrStroke">̄</g>d Florijns for the Earle of Mantſvelt and for pay<g ref="char:EOLunhyphen"/>ment of the Souldiers.</p>
+               <p>Who begin to be encouradged thereby: after the arrivement of the foreſaid / the Earle of Mantſvelt ſhal goe forward on his iourney and the ſaid Earle of Bra<g ref="char:cmbAbbrStroke">̄</g>denburg beſides the Earle of Leeuwenſteen ſhal be made General. And ſeeing our King hath <hi>36000</hi> men together in Moravia / and that Betlem Gabor ſhall com to him with <hi>40000</hi> men / and that the Moravians and Syle<g ref="char:EOLhyphen"/>ſians have gathered A greate ſom of money / ſo ſhall not this Cittie be given over / and if ſo be the united do holde them by our King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then ther is good hope / that there cauſe ſhall have a good end.</p>
+            </div>
+            <div type="text">
+               <pb facs="tcp:177422:2"/>
+               <opener>
+                  <dateline>From Francfott<date> the 23 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>A few dayes agon are <hi>1000</hi> horſemen / and <hi>500</hi> Muſquettiers of Marquis Spinola folke ſett over the Rijne with <hi>4</hi> peeces of ordnaunce / they give to underſtand that they will viſite ſom vil<g ref="char:EOLhyphen"/>ladges that ly in Wetteraw be longing to the Palſgrave / as alſo the Graveſhip Hannaw.</p>
+               <p>This night they have beene at Waſſenheym belonging to the Lantgrave Mauritius of Heſ<g ref="char:EOLhyphen"/>ſen / alſo at Niewe<g ref="char:cmbAbbrStroke">̄</g>haen and there abouts / which is the Palſgraves / they doe greate hurt / and in the mean while are thoſe Townes wherein ly Spanniſh Garriſhon very highly taxed / Oppen<g ref="char:EOLhyphen"/>heym muſt give <hi>5000</hi> Dallers / and other Tow<g ref="char:EOLhyphen"/>nes and juriſdictions pro rato.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From VVeenen, <date>the 16. December.</date>
+                  </dateline>
+               </opener>
+               <p>The Duke of Saxen is arriveded heere yeſter<g ref="char:EOLunhyphen"/>day aboute noone / he ſaith that Iglou have gi<g ref="char:EOLhyphen"/>ven themſelves over unto the Emper: and thoſe <hi>700</hi> Souldiers which lay there in / have ſworne to the Emperour.</p>
+               <p>Alſo the Emperours Armey have parted them ſelves in to two Companies / the on beeing un<g ref="char:EOLhyphen"/>der the Duke Marimilian of Lichteſteen mer<g ref="char:EOLhyphen"/>ched to Zuaim in Moravia / and the other un<g ref="char:EOLhyphen"/>der the Generall Diepenbach is Marched againſt.</p>
+               <p>Brin alſo in Moravia / what they wil bring to paſſe / time wil re veale / for the Moravians ly in the ſaid Citties very ſtrong.</p>
+               <p>At Tirna / there is queſtion fallen betwixt Bet<g ref="char:EOLhyphen"/>lem Gabor and the Nobles of Hungaria / aboute the caring away of the Crowne fro<g ref="char:cmbAbbrStroke">̄</g> Preſburge / which the ſaid Betlem hath promiſed to bringh thither againe / he reports alſo amongſt other things that he will remaine on the King of Bo<g ref="char:EOLhyphen"/>hemias ſide.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Prage, <date>16 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>The olde Earle of Turne is at this preſent with in Tabor / for feare that the ſame Cittie ſhoulde give themſelves over to the Emperour / and that then it ſhoulde goe with them as with thoſe of Prage / he hath nine thouſand men with in Tabor / the which he hath paid <hi>4.</hi> moneths wages / and is reſolved to defend himſelfe to the vttermoſt toe / the ſpeech goeth that the Mora<g ref="char:EOLhyphen"/>vians have taken in Cremys.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>From Keulen <date>the 26 hereof.</date>
+                  </dateline>
+               </opener>
+               <p>Wee vnderſtand that the Marquis Spinola hath commaund from the Emperour / to Procla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>me all thoſe Citties for enimies / that have given themſelves in to the Vnion / he hath ceaſed upon ſom certaine waggens loaded with MerchandI<g ref="char:EOLhyphen"/>zes going to towards Straufburghe / and ſent them to Oppenheym / he doth purpoſe to doe the like againſt thoſe of Vlm Worms / Nurenderghe and other the like places. The ſaid Marquis hath taken in the Caſtle and towne Bilſteen / and found there in much grame and wine as alſo the Towne and Caſtle Meyſenheym / be longing to the Duke of Twe-Bruggen lying not far from Keyſers Lauteren.</p>
+               <p>We underſtand from Prage that the Sicknes a<g ref="char:cmbAbbrStroke">̄</g>d dearth increaſeth there very much which cau<g ref="char:EOLhyphen"/>ſeth the Cittizens and inhabitants to fly away dayly more and more / and forſaeke houſe and land / and give much money for A free paſpot.</p>
+               <p>The King of Bohemia was pet at Breſlaw / but the Queene was gone to Brandenburg there ly in Childebed / and is certaine that thoſe of Sy<g ref="char:EOLhyphen"/>teſia and Moravia have promiſed to live and die with the King / here is writing alſo out of Mo<g ref="char:EOLhyphen"/>ravia / that his Armey is more then thirty thou<g ref="char:EOLhyphen"/>ſand ſtrong they exſpect dayly more aſſiſtaunce from Hungaria / which Bethlem Gabor hath promiſed hence forth to pay / who makes greate preparation for warre againſt Auſtria.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Imprinted at Amſterdam by George Veſeler, Ao. 1621. The 4 of Nanuari.</hi>
+            </p>
+            <p>And are to be ſoulde by Petrus Keerius, dvvelling in the Calverſtreete, in the uncertaine time.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
